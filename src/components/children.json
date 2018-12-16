@@ -1,0 +1,23 @@
+{
+  "first":
+  {
+    "name": "Jas",
+    "age": "7",
+    "city": "Warszawa",
+    "district": "Mokotów"
+  },
+  "second":
+  {
+    "name": "Andrzejek",
+    "age": "3",
+    "city": "Warszawa",
+    "district": "Targówek"
+  },
+  "third":
+  {
+    "name": "Robert",
+    "age": "1.5",
+    "city": "Warszawa",
+    "district": "Praga"
+  }
+}
